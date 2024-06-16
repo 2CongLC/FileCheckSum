@@ -1,0 +1,10 @@
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\FileCheckSum\bin\Debug\FileCheckSum.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\FileCheckSum\bin\Debug\FileCheckSum.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\FileCheckSum\bin\Debug\FileCheckSum.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\FileCheckSum\obj\Debug\FileCheckSum.vbprojAssemblyReference.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\FileCheckSum\obj\Debug\ChuCong.Form1.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\FileCheckSum\obj\Debug\ChuCong.Resources.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\FileCheckSum\obj\Debug\FileCheckSum.vbproj.GenerateResource.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\FileCheckSum\obj\Debug\FileCheckSum.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\FileCheckSum\obj\Debug\FileCheckSum.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\FileCheckSum\obj\Debug\FileCheckSum.pdb
