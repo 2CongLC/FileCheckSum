@@ -8,3 +8,15 @@ E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\FileCheckSum\obj\Debug\FileCheckSum.v
 E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\FileCheckSum\obj\Debug\FileCheckSum.exe
 E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\FileCheckSum\obj\Debug\FileCheckSum.xml
 E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\FileCheckSum\obj\Debug\FileCheckSum.pdb
+D:\Source VBNet_C#\GitHub\FileCheckSum\src\bin\Debug\FileCheckSum.exe.config
+D:\Source VBNet_C#\GitHub\FileCheckSum\src\bin\Debug\FileCheckSum.exe
+D:\Source VBNet_C#\GitHub\FileCheckSum\src\bin\Debug\FileCheckSum.pdb
+D:\Source VBNet_C#\GitHub\FileCheckSum\src\bin\Debug\FileCheckSum.xml
+D:\Source VBNet_C#\GitHub\FileCheckSum\src\obj\Debug\FileCheckSum.vbproj.AssemblyReference.cache
+D:\Source VBNet_C#\GitHub\FileCheckSum\src\obj\Debug\ChuCong.Form1.resources
+D:\Source VBNet_C#\GitHub\FileCheckSum\src\obj\Debug\ChuCong.Resources.resources
+D:\Source VBNet_C#\GitHub\FileCheckSum\src\obj\Debug\FileCheckSum.vbproj.GenerateResource.cache
+D:\Source VBNet_C#\GitHub\FileCheckSum\src\obj\Debug\FileCheckSum.vbproj.CoreCompileInputs.cache
+D:\Source VBNet_C#\GitHub\FileCheckSum\src\obj\Debug\FileCheckSum.exe
+D:\Source VBNet_C#\GitHub\FileCheckSum\src\obj\Debug\FileCheckSum.xml
+D:\Source VBNet_C#\GitHub\FileCheckSum\src\obj\Debug\FileCheckSum.pdb
